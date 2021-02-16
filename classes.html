@@ -28,18 +28,46 @@
                     <a href="classes.html">Classes</a>
                     <a href="benefits.html">benefits</a>
                     <a href="contact-us.html">Contact us</a>
-                    
+  
 				</nav>
 			</div>
         </div>
-       </div>    
-          <video width="400" controls>
-  <source src="<iframe width="630" height="354" src="https://www.bing.com/videos/search?q=youtube+gym+men&ru=%2fvideos%2fsearch%3fq%3dyoutube%2520gym%2520men%26qs%3dn%26form%3dQBVR%26sp%3d-1%26ghc%3d1%26pq%3dyoutube%2520gym%2520men%26sc%3d8-15%26sk%3d%26cvid%3d8D3B5845559143458B23FF7889B58731&view=detail&mid=58B742F9DAF46CF4396C58B742F9DAF46CF4396C&rvsmid=80A8346685E6D5FCC83180A8346685E6D5FCC831&FORM=VDRVRV" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>                          
+       </div>   
+          <img src="assets/images/df108841e32b5c03f5fb83c7e9edded8.jpg" class="img-fluid" alt="..."> 
+              <script type="text/javascript">
+            var picPaths = ['pic1.jpg','pic2.jpg','pic3.jpg','pic4.jpg','pic5.jpg'];
+            var curPic = -1;
+            //preload the images for smooth animation
+            var imgO = new Array();
+            for(i=0; i < picPaths.length; i++) {
+                imgO[i] = new Image();
+                imgO[i].src = picPaths[i];
+            }
+
+            function swapImage() {
+                curPic = (++curPic > picPaths.length-1)? 0 : curPic;
+                imgCont.src = imgO[curPic].src;
+                setTimeout(swapImage,2000);
+            }
+
+            window.onload=function() {
+                imgCont = document.getElementById('imgBanner');
+                swapImage();
+            }
+        </script>
+
+    </head>
+    <body>
+
+        <div>
+            <img id="imgBanner" src="assets/images/df108841e32b5c03f5fb83c7e9edded8.jpg" alt="" />
+            
+        </div>  
 <table class="table table-dark">
+   
+</div>
      <h2>Timetables</h2>
+    
   <thead>
     <tr>
       <th scope="col">classes</th>
@@ -175,6 +203,7 @@
 
  <footer>
      
+    
 <h2> Social Media </h2>
 
 <!-- Add font awesome icons -->
