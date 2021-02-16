@@ -1,4 +1,11 @@
 
+
+h2 {
+    text-align: center;
+}
+
+ 
+
 *{
   margin: 0;
 	padding: 0;
@@ -86,14 +93,15 @@ header{
 h1{
 	font-weight: 300;
     line-height: 40px;
-    color:red;
+    color:white;
     float: left;
+    
 }
 
-.myDiv {
-  
+.myDiv {  
   text-align: center;
 }
+
 a{
 	text-decoration: none;
 	color: white;
@@ -502,7 +510,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
   color: white;
 }
 
-/* Twitter */
+
 .fa-twitter {
   background: #55ACEE;
   color: white;
@@ -525,8 +533,12 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 
 .column {
     text-align: center;
+    inline-block;
 }
 
-h4 {
-    text-align:center; 
+
+ div.b {
+  text-transform: lowercase;
 }
+
+,--------------------------------------------------------------.
