@@ -1,4 +1,6 @@
-
+body {
+    background-color: lawngreen;
+}
 
 h2 {
     text-align: center;
@@ -52,7 +54,9 @@ header{
 	float: left;
 }
 .header-left{
-	width: 30%;
+    width: 30%;
+  
+   
 }
 .header-right label{
 	position: absolute;
@@ -90,13 +94,8 @@ header{
 #open{
 	display: none;
 }
-h1{
-	font-weight: 300;
-    line-height: 40px;
-    color:white;
-    float: left;
-    
-}
+
+
 
 .myDiv {  
   text-align: center;
@@ -543,10 +542,19 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
   text-transform: lowercase;
 }
 
-h2  {
-     background-color: #55ACEE;
- }
+.social {
+    background-color: lightcoral;
 
- 
- <----------------------------
- 
+}
+.socialmediaicons {
+    float:center;
+}
+
+.timetables {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: lightcoral;
+}
+
+.col {
+    text-decoration-color: lightseagreen;
+}
