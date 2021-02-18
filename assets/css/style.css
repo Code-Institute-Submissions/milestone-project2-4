@@ -3,13 +3,10 @@
       font-family: "EXO",sans-serif;
   }
  
-
-}
 h2 {
     text-align: center;
 }
 
- 
 
 *{
   margin: 0;
@@ -585,4 +582,14 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 
 #social-media-text {
 text-align: center;
+}
+
+.benefits {
+    text-align: center;
+    background-color: lightblue;
+     text-transform: uppercase;
+}
+
+.city {
+    text-align: center;
 }
