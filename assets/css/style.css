@@ -6,7 +6,11 @@
 h2 {
     text-align: center;
 }
-
+h6 {
+    text-align: center;
+    border: #000;
+   background-color: #0056b3;
+}
 
 *{
   margin: 0;
@@ -92,7 +96,9 @@ header{
 #open{
 	display: none;
 }
-
+.colum {
+    width:100%;
+}
 
 
 .myDiv {  
@@ -103,6 +109,7 @@ header{
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+  
 }
 
 a{
@@ -612,4 +619,47 @@ text-align: center;
   .column {
     width: 100%;
   }
+}
+
+.gridHeader {
+	color: #000;
+	background-color: #EAEAEA;
+	font-size: 12px;
+}
+.gridHeader:hover {
+	color: #000 !important;
+	font-size: 12px;
+}
+.gridSide {
+	color: #000;
+	background-color: #EAEAEA;
+	font-size: 28px;
+	border-right: thin solid #ACACAC;
+	;
+}
+.underline {
+	border-bottom: thin solid #ACACAC;
+}
+.box {
+	border-bottom: thin solid #ACACAC;
+	border-right: thin solid #ACACAC;
+	font-size: 10px;
+	text-align: center;
+	color: #000 !important;
+}
+.box:hover {
+	background-color: #EAEAEA;
+	color: #000 !important;
+}
+
+ table, th, td{
+        border: 1px solid #666;
+    }
+    table th, table td{
+        padding: 10px;
+    }
+
+    table {
+  border-spacing: 10px;
+  width: 100%;
 }
