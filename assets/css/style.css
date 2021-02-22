@@ -666,19 +666,5 @@ footer {
   padding-left: 20px;
 }
 
-* {
-  box-sizing: border-box;
-}
+/*----------------------------------Images*/
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
