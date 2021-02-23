@@ -4,7 +4,12 @@
     
  
 }
-  }
+
+  
+ h5 h6 {
+     text-transform: uppercase;
+
+}
  
 h2 {
     text-align: center;
@@ -586,7 +591,8 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 	color: #000;
 	background-color: #EAEAEA;
 	font-size: 28px;
-	border-right: thin solid #ACACAC;
+    border-right: thin solid #ACACAC;
+    color: red;
 	;
 }
 .underline {
@@ -600,7 +606,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 	color: #000 !important;
 }
 .box:hover {
-	background-color: #EAEAEA;
+	background-color: purple;
 	color: #000 !important;
 }
 
