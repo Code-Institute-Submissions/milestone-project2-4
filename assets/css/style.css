@@ -29,8 +29,19 @@
    display: inline-block;
 }
   
- h5 h6 {
+ h5 {
      text-transform: uppercase;
+
+}
+.header-timetable {
+   text-align: center;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+
 
 }
  
@@ -48,6 +59,15 @@ text-align: center;
 
 }
 
+.benefits {
+    text-align: center;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+}
 *{
   margin: 0;
 	padding: 0;
@@ -350,8 +370,13 @@ section{
     
 }
 .fcf-h3 {
-    text-align: center;
-    background-color: #007bff;
+   text-align: center;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 60px;
 }
 
 .fcf-body {
