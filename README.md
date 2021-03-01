@@ -1,6 +1,6 @@
                                Tom's Gym Website
 
-Live Site [https://8000-fuchsia-cardinal-bu08edr3.ws-eu03.gitpod.io/]
+Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
 
 This is the main marketing tool for Tom's Gym . the website is desgined to be responsive and accessible on a wide range of devices from desktop 
