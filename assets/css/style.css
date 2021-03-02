@@ -32,7 +32,9 @@
  h5 {
      text-transform: uppercase;
 
-}
+ 
+
+
 .time {
   text-align: center;
   border: 1px solid black;
@@ -280,6 +282,7 @@ section{
 		padding: 0 2em;
 	}
 	h1{
+       
         padding: .5em 0;
         
 	}
@@ -586,7 +589,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 
 
 
-.timetables {
+.time {
    text-align: center;
   border: 1px solid black;
   background-color: lightblue;
@@ -721,5 +724,32 @@ footer {
   padding-left: 20px;
 }
 
-/*----------------------------------Images*/
+/*----------------------------------maps*/
 
+ .map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+    
+  
+}
