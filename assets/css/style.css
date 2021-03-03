@@ -1,7 +1,9 @@
 
   body {
       font-family: "EXO",sans-serif;
-    
+  }
+  .Opening-Hours{
+background-color: #007bff;
  
 }
 .months{
@@ -32,8 +34,6 @@
  h5 {
      text-transform: uppercase;
 
- 
-
 
 .time {
   text-align: center;
@@ -43,13 +43,15 @@
   padding-right: 30px;
   padding-bottom: 30px;
   padding-left: 40px;
-
-  
+ 
 }
 
+
  
-h2 {
-    text-align: center;
+h4 {
+   text-align: center;
+  
+ 
 }
 .header {
 text-align: center;
@@ -160,7 +162,7 @@ header{
 }
 
 
-.myDiv {  
+.Div {  
   text-align: center;
   border: 1px solid black;
   background-color: lightblue;
@@ -168,6 +170,18 @@ header{
   padding-right: 30px;
   padding-bottom: 30px;
   padding-left: 40px;
+ 
+  
+}
+
+.myDiv {  
+   text-align: center;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 60px;
  
   
 }
@@ -283,8 +297,9 @@ section{
 	}
 	h1{
        
-        padding: .5em 0;
-        
+        padding: .4em 0;
+             
+       
 	}
 	.header-left,
 	.header-right{
@@ -331,10 +346,13 @@ section{
 	nav>a{
 		padding: 0 1em;
 		display: block;
-		border-bottom: solid 1px rgba(255,255,255,.1);
+        border-bottom: solid 1px rgba(255,255,255,.1);
+       
 	}
 	h1{
-        padding: .5em 0;
+       padding: 0 7em;
+		display: block;
+        border-bottom: solid 1px rgba(255,255,255,.1);
         	}
 	.header-left,
 	.header-right{
@@ -750,6 +768,6 @@ footer {
 
     position:absolute;
 
-    
+    border: #0062cc;
   
 }
