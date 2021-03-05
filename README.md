@@ -74,7 +74,7 @@ Git:
 the website was deployed on (e.g. GitHub Pages )
 
 
-Balsamiq was used to create a wireframe template of the website:
+wireframe.cc was used to create a wireframe template of the website:
 
     
 Credits:
