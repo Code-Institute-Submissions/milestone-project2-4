@@ -20,6 +20,12 @@ to mobile devices this makes the webiste easy to navagate for potential and exis
 it also provides all of the information about Tom's Gym's  the health benefits all be it mental and physical health it will give you the inspriation to get of the couch turn of the
 telly and hit the gym.
 
+Google maps:
+
+a map is provided on the webiste so people can easly find us type in your location and it will give you the best route
+
+<iframe src="https://www.google.com/maps/embed/v1/place?q=rathmines+dublin&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
+
 Returning visitor Goals:
 
 as a returning visitor i wanted to see about if people  give good feedback from our gym and to also tell there frends and family about the gym
