@@ -6,10 +6,9 @@ Tom's Gym                                                                     Ho
 
 	Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
-   ![alt text](assetes/Tom's Gym.PNG "Tom's Gym")
-
-   
-
+   <img src="Tom's Gym.PNG" width="#"></img>
+                                 
+  
 
 User Experience: (UX)
 
