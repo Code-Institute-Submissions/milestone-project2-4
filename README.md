@@ -27,6 +27,16 @@ Return Visitor's Goal
 as a returning visitor i wanted to see about if people  give good feedback from our gym and to also tell there frends and family about the gym
 also to gain new customers  there is a contact form to gety in touch with us
  <img src="contact us.PNG" width="#"></img>
+
+Google Maps
+ 
+ I provided a google maps to find the location of the gym easily  from any where just follow the directions 
+
+<img src="maps.PNG" width="#"></img>
+
+
+ link ref are:
+
 jquery3.5.1 jquery.min.js 
 
 cdnjs.cloudflare.com
