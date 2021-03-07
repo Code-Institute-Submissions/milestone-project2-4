@@ -6,7 +6,7 @@ Tom's Gym                                                                     Ho
 
 	Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
-   ![alt text](asstes/Tom's Gym.PNG "Tom's Gym")
+   ![alt text](assetes/Tom's Gym.PNG "Tom's Gym")
 
    
 
