@@ -2,6 +2,9 @@
 
 Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
+
+
+
 User Experience: (UX)
 
 User Stories:
@@ -49,7 +52,7 @@ a look around the gym with the facilities provided and also the pictures show al
 
  Wireframes:
 
-home Page Wireframe -view link here
+were used as a template for this website  [https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
 
 
 
@@ -74,7 +77,9 @@ Git:
 the website was deployed on (e.g. GitHub Pages )
 
 
-wireframe.cc was used to create a wireframe template of the website:
+
+wireframe.cc was used to create a wireframe template of the website:[https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
+
 
     
 Credits:
