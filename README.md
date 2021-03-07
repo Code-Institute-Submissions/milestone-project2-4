@@ -25,8 +25,8 @@ telly and hit the gym.
 Return Visitor's Goal
 
 as a returning visitor i wanted to see about if people  give good feedback from our gym and to also tell there frends and family about the gym
-also to gain new customers  
-
+also to gain new customers  there is a contact form to gety in touch with us
+ <img src="contact us.PNG" width="#"></img>
 jquery3.5.1 jquery.min.js 
 
 cdnjs.cloudflare.com
@@ -63,6 +63,7 @@ a look around the gym with the facilities provided and also the pictures show al
 <img src="assets/images/df108841e32b5c03f5fb83c7e9edded8.jpg" width="15%"></img>
 <img src="assets/images/LAFitness .jpg" width="15%"></img>
 
+contact us 
 
 
 
