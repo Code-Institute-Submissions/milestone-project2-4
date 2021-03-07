@@ -1,7 +1,12 @@
-                               Tom's Gym Website
+                                  Tom's Gym Website
+
+
+Tom's Gym                                        Home Facilities Classes Benefits Contact Us                                                     
 
 
 	Live Site [https://tomfinnegan.github.io/milestone-project2/]
+
+   /workspace/milestone-project2/Tom's Gym.PNG
 
    
 
@@ -19,6 +24,7 @@ telly and hit the gym.
 Returning visitor Goals:
 
 as a returning visitor i wanted to see about if people  give good feedback from our gym and to also tell there frends and family about the gym
+also to gain new customers  
 
 Technologies Used:
 
@@ -31,7 +37,8 @@ font-awesome 4.7.0.
 Frequent User Goals:
 
 As a frequent user i wanted to check  the website for promotions like special prices to different classes it will have special section where people
-can sign up to a special program to get fit and ripped just in time for summer with our 6 week special promotion 
+can sign up to a special program to get fit and ripped just in time for summer with our 6 week special promotion there is also promotions run at different times 
+of the year to incentive people to be more active and realize  the benefits of exercise  
 
 Desgin: 
 
@@ -78,7 +85,7 @@ the website was deployed on (e.g. GitHub Pages )
 
 
 
-wireframe.cc was used to create a wireframe template of the website:[https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
+
 
 
     
