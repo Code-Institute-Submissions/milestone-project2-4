@@ -1,7 +1,7 @@
                                Tom's Gym Website
 
 
-http://ami.responsivedesign.is?url=https://tomfinnegan.github.io/milestone-project2/
+	Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
    
 
