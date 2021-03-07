@@ -1,7 +1,7 @@
-                                  Tom's Gym Website
+                                 
+Tom's Gym                                                                                     Home Facilities  Classes Benefits Contact Us
 
-
-Tom's Gym                                                                     Home Facilities Classes Benefits Contact Us                                                     
+                                                    
 
 
 	Live Site [https://tomfinnegan.github.io/milestone-project2/]
@@ -48,6 +48,7 @@ Frequent User Goals:
 As a frequent user i wanted to check  the website for promotions like special prices to different classes it will have special section where people
 can sign up to a special program to get fit and ripped just in time for summer with our 6 week special promotion there is also promotions run at different times 
 of the year to incentive people to be more active and realize  the benefits of exercise  
+<img src="benefits.PNG" width="#"></img>
 
 Desgin: 
 
@@ -119,7 +120,8 @@ The text for section for about us was copied from https://www.rawgyms.com/classe
 
 validation of the website from w3c validator
 
-all pages passed
+
+ link to website [https://validator.w3.org/]
 
 Acknowledgements
 Google fonts
