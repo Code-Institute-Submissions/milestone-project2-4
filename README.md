@@ -2,7 +2,7 @@
 
 Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
-    live site[http://ami.responsivedesign.is/#]
+   
 
 
 User Experience: (UX)

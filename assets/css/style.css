@@ -771,3 +771,32 @@ footer {
     border: #0062cc;
   
 }
+
+<-------------------------------------------
+
+.laptop {
+  background-image: url("../images/laptop-screen-optimised.png");
+  width: 477px;
+  height: 307px;
+  top: 264px;
+  left: 560px;
+  position: absolute;
+  z-index: 2;
+  iframe {
+    width: 1280px;
+    height: 802px;
+    top:26px;
+    left:60px;
+    transform: scale(0.277);
+-webkit-transform: scale(0.277);
+-o-transform: scale(0.277);
+-ms-transform: scale(0.277);
+-moz-transform: scale(0.277);
+transform-origin: top left;
+-webkit-transform-origin: top left;
+-o-transform-origin: top left;
+-ms-transform-origin: top left;
+-moz-transform-origin: top left;
+  }
+
+}
