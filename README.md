@@ -54,7 +54,16 @@ Exo is a very complete font family, it has 9 weights both in regular and true it
 Reference For the Information about the font family used in this website  is provided by the following  view link here [https://www.1001fonts.com/exo-font.html]
 
 Image: the main image in the website is to engage  with the user and to give visual appeal to the website its also to give perspective clients 
-a look around the gym with the facilities provided and also the pictures show all of the equipment available    
+a look around the gym with the facilities provided and also the pictures show all of the equipment available 
+
+                                             Images of the gym
+
+<img src="assets/images/1008451154-Gyms_01_usethisversion-1226x0-c-default.jpg" width="15%"></img>
+<img src="assets/images/CS_fitness-center-scaled.jpg" width="15%"></img>
+<img src="assets/images/df108841e32b5c03f5fb83c7e9edded8.jpg" width="15%"></img>
+<img src="assets/images/LAFitness .jpg" width="15%"></img>
+
+
 
 
  Wireframes:
