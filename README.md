@@ -1,12 +1,12 @@
                                   Tom's Gym Website
 
 
-Tom's Gym                                        Home Facilities Classes Benefits Contact Us                                                     
+Tom's Gym                                                                     Home Facilities Classes Benefits Contact Us                                                     
 
 
 	Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
-   /workspace/milestone-project2/Tom's Gym.PNG
+   
 
    
 
