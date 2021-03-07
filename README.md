@@ -52,8 +52,7 @@ a look around the gym with the facilities provided and also the pictures show al
 
  Wireframes:
 
-were used as a template for this website  [https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
-
+were used as a template for this website [https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
 
 
 features:
