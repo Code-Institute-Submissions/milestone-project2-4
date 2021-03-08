@@ -55,7 +55,6 @@ Desgin:
 color scheme:
 
 there are a wide variety of colors  some are green, light grey, black, light blue, grey
-
 Typography:
 
 The main font is "EXO",sans-serif.  
@@ -67,30 +66,35 @@ Reference For the Information about the font family used in this website  is pro
 Image: the main image in the website is to engage  with the user and to give visual appeal to the website its also to give perspective clients 
 a look around the gym with the facilities provided and also the pictures show all of the equipment available 
 
-                                             Images of the gym
+Images of the gym
 
 <img src="assets/images/1008451154-Gyms_01_usethisversion-1226x0-c-default.jpg" width="15%"></img>
 <img src="assets/images/CS_fitness-center-scaled.jpg" width="15%"></img>
 <img src="assets/images/df108841e32b5c03f5fb83c7e9edded8.jpg" width="15%"></img>
 <img src="assets/images/LAFitness .jpg" width="15%"></img>
 
-contact us 
+contact us :
 
+This section is so the users of the gym and prostective clients  can get in contact with the gym to leave comments about there experience and 
+also to make general enquires  
 
+<img src="contact-us.html" width="#"></img
 
- Wireframes:
+Wireframes:
 
 were used as a template for this website [https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
 
 
 features:
 
-Responsive websie on devices 
+Responsive website on devices 
+Google maps to help find the location of the gym
 
 Languages used in this  Project
 
 html
 CSS3  
+
 
 Frameworks, Libraries & Programs Used: bootstrap 3.4.1
 
@@ -119,7 +123,7 @@ The text for section for about us was copied from https://www.rawgyms.com/classe
 
 
 validation of the website from w3c validator
-
+ for html
 
  link to website [https://validator.w3.org/]
 
@@ -128,3 +132,36 @@ Google fonts
 bing for the image
 raw gyms for paragraph text
 
+Testing on w3cvalidator:
+
+Index page passed
+
+<img src="index.PNG" width="#"></img>
+
+
+Facilites page with error no space between attributes 
+
+<img src="facilliteserror.PNG" width="#"></img>
+
+
+Facilites page with no error
+
+
+<img src="facilites.PNG" width="#"></img>
+
+
+
+Classes page no error's:
+
+<img src="classes.PNG" width="#"></img>
+
+
+
+Benefits page error free:
+
+<img src="benefitss.PNG" width="#"></img>
+
+
+
+Contact us page error free:
+<img src="contactus.PNG" width="#"></img>
