@@ -1,5 +1,5 @@
                                  
-Tom's Gym                                                                                     Home Facilities  Classes Benefits Contact Us
+
 
                                                     
 
@@ -8,7 +8,12 @@ Tom's Gym                                                                       
 
    <img src="Tom's Gym.PNG" width="#"></img>
                                  
-  
+  Tom's Gym 
+  My website is about a gym that is based in rathmines the main focus is to give people information about the gym its supposed to 
+  be a pleasent experience as they look around the webiste they can gain more insight about our services it tells our clients excisting
+  and new clients the benefits of going to the gym some of the benefits are the following mental and physical benefits we have a section that
+  lets people know about the classes and the facilities provided there is a section dedicated to the benefits of going to the gym i also have 
+  a google map to let people find us easier there is a contact section so people can leave comments about there experience.  
 
 User Experience: (UX)
 
@@ -16,16 +21,18 @@ User Stories:
 
  First Time Visitor's Goals:
 This is the main marketing tool for Tom's Gym . the website is desgined to be responsive and accessible on a wide range of devices from desktop 
-to mobile devices this makes the webiste easy to navagate for potential and existing clients.i want the website to help people engage with the gym
-it also provides all of the information about Tom's Gym's  the health benefits all be it mental and physical health it will give you the inspriation to get of the couch turn of the
-telly and hit the gym.
+to mobile devices this makes the webiste easy to navagate for potential and existing clients.i want the website to help people engage with
+ the gym it also provides all of the information about Tom's Gym's  the health benefits all be it mental and physical health it will give
+  you the inspriation to get of the couch turn of the telly and hit the gym.
 
 
 
 Return Visitor's Goal
 
-as a returning visitor i wanted to see about if people  give good feedback from our gym and to also tell there frends and family about the gym
-also to gain new customers  there is a contact form to gety in touch with us
+as a returning visitor i wanted to see about if people give good feedback from our gym and tell us about there experience with our coaches
+ to also tell there frends and family about the gym
+also to gain new customers there is a contact form to get in touch with us 
+
  <img src="contact us.PNG" width="#"></img>
 
 Google Maps
