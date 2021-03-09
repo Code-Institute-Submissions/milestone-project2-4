@@ -55,6 +55,7 @@ Frequent User Goals:
 As a frequent user i wanted to check  the website for promotions like special prices to different classes it will have special section where people
 can sign up to a special program to get fit and ripped just in time for summer with our 6 week special promotion there is also promotions run at different times 
 of the year to incentive people to be more active and realize  the benefits of exercise  
+
 <img src="benefits.PNG" width="#"></img>
 
 Desgin: 
@@ -80,12 +81,7 @@ Images of the gym
 <img src="assets/images/df108841e32b5c03f5fb83c7e9edded8.jpg" width="15%"></img>
 <img src="assets/images/LAFitness .jpg" width="15%"></img>
 
-contact us :
 
-This section is so the users of the gym and prostective clients  can get in contact with the gym to leave comments about there experience and 
-also to make general enquires  
-
-<img src="contact-us.html" width="#"></img
 
 Wireframes:
 
@@ -172,3 +168,8 @@ Benefits page error free:
 
 Contact us page error free:
 <img src="contactus.PNG" width="#"></img>
+  
+
+
+   Git clone images 
+<img src="git clone.PNG" width="#"></img>
