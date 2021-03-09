@@ -33,7 +33,7 @@ as a returning visitor i wanted to see about if people give good feedback from o
  to also tell there frends and family about the gym
 also to gain new customers there is a contact form to get in touch with us 
 
- <img src="contact us.PNG" width="#"></img>
+ <img src="contactform.PNG" width="#"></img>
 
 Google Maps
  
