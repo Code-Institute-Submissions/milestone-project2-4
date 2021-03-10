@@ -1,6 +1,6 @@
-                                 
+                                              Tom's Gym                                 
 
-
+  <img src="responsive.PNG" width="#"></img>
                                                     
 
 
@@ -130,12 +130,25 @@ validation of the website from w3c validator
 
  link to website [https://validator.w3.org/]
 
-Acknowledgements
+Acknowledgements:
+
 Google fonts
 bing for the image
 raw gyms for paragraph text
+ami.responsivedesgin.is/#
+
+ images on mobile/tablet/desktop source on website link    [ http://ami.responsivedesign.is/#]
+
+ How it works
+
+Add your URL to the input field
+Click GO (reloads the preview) or press Enter (reloads the page)
+Admire your good work
+If you're interested there's now a post on the process of building Am I Responsive
 
 Testing on w3cvalidator:
+all pages passed
+errors were shown below in images 
 
 Index page passed
 
@@ -154,19 +167,19 @@ Facilites page with no error
 
 
 
-Classes page no error's:
+Classes page no error's
 
 <img src="classes.PNG" width="#"></img>
 
 
 
-Benefits page error free:
+Benefits page error free
 
 <img src="benefitss.PNG" width="#"></img>
 
 
 
-Contact us page error free:
+Contact us page error free
 <img src="contactus.PNG" width="#"></img>
   
 
