@@ -83,7 +83,7 @@ text-align: center;
 .clearfix {
   *zoom: 1;
 }
-}
+
 body{
 	background: url('brushed_alu.png');
 }
@@ -134,7 +134,7 @@ header{
 }
 .header-right span:before,
 .header-right span:after{
-	content: '';
+	content: '#';
 	position: absolute;
 	width: 2em;
 	height: .5em;
@@ -241,13 +241,14 @@ section{
 	ul li:nth-child(2n) .box{
 		margin-right: 0;
 		clear: right;
-	}
+	
 }
 /* Small monitor */
 @media (max-width: 979px){
 	nav>a{
 		padding: 0 1.5em;
-	}
+   
+    }
 	.section-left,
 	.section-right{
 		width: 100%;
@@ -274,7 +275,7 @@ section{
 @media (max-width: 767px) {
 	.container{
         width: 95%;
-        
+   
 	}
 	nav>a{
 		padding: 0 2em;
@@ -315,7 +316,8 @@ section{
 @media (max-width: 480px) {
 	body{
 		padding: 0 .5em;
-	}
+  
+}
 	.container{
 		width: 90%;
 	}
@@ -533,7 +535,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 300px; 
 }
 /* Clear floats after the columns */
 .row:after {
@@ -545,8 +547,9 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
-  
+  }
 }
+
 .column {
     text-align: center;
     display: inline-block;
@@ -583,7 +586,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
   display: table;
 }
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other (Table)*/
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
@@ -603,7 +606,9 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 	font-size: 28px;
     border-right: thin solid #ACACAC;
     color: red;
-	;
+     border-collapse: collapse;  
+    border: 1px solid #ddd;
+	
 }
 .underline {
 	border-bottom: thin solid #ACACAC;
@@ -612,7 +617,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 	border-bottom: thin solid #ACACAC;
 	border-right: thin solid #ACACAC;
 	font-size: 10px;
-	text-align: center;
+	text-align:center;
 	color: #000 !important;
 }
 .box:hover {
@@ -628,6 +633,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
     table {
   border-spacing: 10px;
   width: 100%;
+  
 }
 /*---------------------------------social media*/
 .fa {

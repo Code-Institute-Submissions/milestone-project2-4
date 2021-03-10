@@ -155,7 +155,9 @@ Index page passed
 <img src="index.PNG" width="#"></img>
 
 
-Facilites page with error no space between attributes 
+Facilites page with error 
+
+no space between attributes 
 
 <img src="facilliteserror.PNG" width="#"></img>
 
@@ -173,16 +175,30 @@ Classes page no error's
 
 
 
-Benefits page error free
+Benefits page no error 
 
 <img src="benefitss.PNG" width="#"></img>
 
 
 
-Contact us page error free
+Contact us  page no error
 <img src="contactus.PNG" width="#"></img>
   
+CSS  With Error's
+<img src="csserrosnew.PNG"width="#"></img>
 
+CSS Without Error's
+
+<img src="csserrorfree.PNG"width="#"></img>
 
    Git clone images 
 <img src="git clone.PNG" width="#"></img>
+
+reference below is from the following website [https://www.sitepoint.com/community/t/css-validation-unknown-vendor-extensions/125616]
+
+**CSS Validation unknown vendor extensions**
+
+There is nothing you can do to validate vendor extensions except to not use them. 
+Please explain to your client that there is nothing you can do about this since those errors will help support browser compatibility efforts.
+ The validator only validates against valid code. The vendor extensions are proprietary code.
+ As such it will always be invalid.
