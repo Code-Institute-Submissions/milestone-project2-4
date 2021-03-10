@@ -2,11 +2,22 @@
 
   <img src="responsive.PNG" width="#"></img>
                                                     
+images on mobile/tablet/desktop source on website link    [ http://ami.responsivedesign.is/#]
 
+                                ** How it works **
+
+Add your URL to the input field
+Click GO (reloads the preview) or press Enter (reloads the page)
+Admire your good work
+If you're interested there's now a post on the process of building Am I Responsive
 
 	Live Site [https://tomfinnegan.github.io/milestone-project2/]
 
    <img src="Tom's Gym.PNG" width="#"></img>
+
+
+
+
                                  
   Tom's Gym 
   My website is about a gym that is based in rathmines the main focus is to give people information about the gym its supposed to 
@@ -137,66 +148,61 @@ bing for the image
 raw gyms for paragraph text
 ami.responsivedesgin.is/#
 
- images on mobile/tablet/desktop source on website link    [ http://ami.responsivedesign.is/#]
-
- How it works
-
-Add your URL to the input field
-Click GO (reloads the preview) or press Enter (reloads the page)
-Admire your good work
-If you're interested there's now a post on the process of building Am I Responsive
+ 
 
 Testing on w3cvalidator:
 all pages passed
 errors were shown below in images 
 
-Index page passed
+                         ** Index page passed **
 
 <img src="index.PNG" width="#"></img>
 
 
-Facilites page with error 
 
-no space between attributes 
+
+                       **Facilities page with error ** 
 
 <img src="facilliteserror.PNG" width="#"></img>
 
 
-Facilites page with no error
+                        **Facilites page with no error **
 
 
 <img src="facilites.PNG" width="#"></img>
 
 
 
-Classes page no error's
+                         ** Classes page no error's **
 
 <img src="classes.PNG" width="#"></img>
 
 
 
-Benefits page no error 
+                         ** Benefits page no error **  
 
 <img src="benefitss.PNG" width="#"></img>
 
 
 
-Contact us  page no error
+                          ** Contact us  page no error **
 <img src="contactus.PNG" width="#"></img>
   
-CSS  With Error's
-<img src="csserrosnew.PNG"width="#"></img>
+                          ** CSS  With Error's **
 
-CSS Without Error's
+<img src="csserrosnew.PNG" width="#"></img>
 
-<img src="csserrorfree.PNG"width="#"></img>
+                             ** CSS Without Error's **
 
-   Git clone images 
+
+<img src="csserrorfree.PNG" width="#"></img>
+
+                            ** Git clone images **
 <img src="git clone.PNG" width="#"></img>
 
 reference below is from the following website [https://www.sitepoint.com/community/t/css-validation-unknown-vendor-extensions/125616]
 
-**CSS Validation unknown vendor extensions**
+                        ** V alidation unknown vendor extensions **
 
 There is nothing you can do to validate vendor extensions except to not use them. 
 Please explain to your client that there is nothing you can do about this since those errors will help support browser compatibility efforts.
