@@ -55,8 +55,48 @@ Reference For the Information about the font family used in this website  is pro
    ### Wireframes
 
 Home page Balsamiq [View the live project here] (https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9)
+[View](https://github.com/Tom'sgym.pdf)
 
-   Tom'sgym.pdf
+
+
+
+
+
+ ## Features
+
+-   Responsive on all device sizes
+<h2>Technologies Used</h2>
+   
+
+
+Languages Used
+ HTML5
+ CSS3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    <img src="Tom's Gym.PNG" width="#"></img>
 
 
