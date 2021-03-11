@@ -53,10 +53,11 @@ Reference For the Information about the font family used in this website  is pro
    attention it's also to give people a feel for the gym
 
    ### Wireframes
+Desktop
+    [View the Wireframe here.](https://github.com/tomfinnegan/milestone-project2/blob/master/New%20Project%20(11).pdf)
 
-[View the Wireframe here.](https://github.com/tomfinnegan/milestone-project2/blob/master/New%20Project%20(6).pdf)
 
-
+ 
 
 
  
