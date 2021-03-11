@@ -1,31 +1,72 @@
-                                              Tom's Gym                                 
+                          
+
+<h1 align="center">Toms' Gym</h1>
+
+
+[View the live project here.](https://tomfinnegan.github.io/milestone-project2/)
+
+This website is one of many marketing tools for tom's gym. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential 
+clients                               
+
 
   <img src="responsive.PNG" width="#"></img>
                                                     
-images on mobile/tablet/desktop source on website link    [ http://ami.responsivedesign.is/#]
+## User Experience (UX)
+   I want the webist to be as easliy as possible for people to use the webiste
 
-                                ** How it works **
+ ### User stories
+ I have a dedicated contact us section which people can get in touch with us as potential clients
+ and they can leave comments about ther experience
 
-Add your URL to the input field
-Click GO (reloads the preview) or press Enter (reloads the page)
-Admire your good work
-If you're interested there's now a post on the process of building Am I Responsive
+  #### First Time Visitor Goals
+  1. For first time visitors i want people to engage with the gym and see the benefits. 
+  
+  2. For the first time visitor i want people to see feeback and comments about the gym
+     and there experience. 
+	
+  3. For first time vistiors i want website  to be easy to  navigate . 
+    
 
-	Live Site [https://tomfinnegan.github.io/milestone-project2/]
+#### Returning Visitor Goals
+    1. As a Returning Visitor i want people to find more information about the gym
+    2. As a Returning Visitor i want people to find new information on classes and promotions
 
+ #### Frequent User Goals
+    1.  As a Frequent User i want people to spread the word about Tom's Gym
+    2.  As a Frequent User i want people to check the website for promotions
+        and challenges to get in shape. 
+
+        ### Design
+    -   #### Colour Scheme
+            There are a wide variety of colors  some are green, light grey, black, light blue, grey
+   
+       #### Typography
+
+            The main font is "EXO",sans-serif.  
+Exo is a geometric sans serif font family. Its design started almost two years ago as way to discover typography in a more advanced way.
+Exo is a very complete font family, it has 9 weights both in regular and true italic versions. Each font comes with a lot of opentype features such as small caps, ligatures, alternates, oldstyle figures, tabular figures, fractions, and more.
+
+Reference For the Information about the font family used in this website  is provided by the following  view link here [https://www.1001fonts.com/exo-font.html]
+
+   #### Imagery
+   Images are visually important to website's the main image is desgind to be appealing and catch the user's
+   attention it's also to give people a feel for the gym
+
+   ### Wireframes
+
+Home page Balsamiq [View the live project here] (https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9)
+
+   Tom'sgym.pdf
    <img src="Tom's Gym.PNG" width="#"></img>
 
 
 
 
-                                 
-  Tom's Gym 
-  My website is about a gym that is based in rathmines the main focus is to give people information about the gym its supposed to 
-  be a pleasent experience as they look around the webiste they can gain more insight about our services it tells our clients excisting
-  and new clients the benefits of going to the gym some of the benefits are the following mental and physical benefits we have a section that
-  lets people know about the classes and the facilities provided there is a section dedicated to the benefits of going to the gym i also have 
-  a google map to let people find us easier there is a contact section so people can leave comments about there experience.  
 
+
+
+
+  
 User Experience: (UX)
 
 User Stories:
@@ -73,14 +114,9 @@ Desgin:
 
 color scheme:
 
-there are a wide variety of colors  some are green, light grey, black, light blue, grey
+
 Typography:
 
-The main font is "EXO",sans-serif.  
-Exo is a geometric sans serif font family. Its design started almost two years ago as way to discover typography in a more advanced way.
-Exo is a very complete font family, it has 9 weights both in regular and true italic versions. Each font comes with a lot of opentype features such as small caps, ligatures, alternates, oldstyle figures, tabular figures, fractions, and more.
-
-Reference For the Information about the font family used in this website  is provided by the following  view link here [https://www.1001fonts.com/exo-font.html]
 
 Image: the main image in the website is to engage  with the user and to give visual appeal to the website its also to give perspective clients 
 a look around the gym with the facilities provided and also the pictures show all of the equipment available 
@@ -96,7 +132,6 @@ Images of the gym
 
 Wireframes:
 
-were used as a template for this website [https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9]
 
 
 features:
