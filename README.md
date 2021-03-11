@@ -55,10 +55,11 @@ Reference For the Information about the font family used in this website  is pro
    ### Wireframes
 
 Home page Balsamiq [View the live project here] (https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9)
-[View](https://github.com/Tom'sgym.pdf)
 
 
-
+[View] ("https:/workspace/milestone-project2/New Project (5).pdf//github.com/") 
+[
+ <img src="New Project (5).pdf width"="#"></img>
 
 
 
