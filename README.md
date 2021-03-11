@@ -54,23 +54,21 @@ Reference For the Information about the font family used in this website  is pro
 
    ### Wireframes
 
-Home page Balsamiq [View the live project here] (https://balsamiq.cloud/s3bqjkq/p40qwtz/r8CE9)
+[View the Wireframe here.](https://github.com/tomfinnegan/milestone-project2/blob/master/New%20Project%20(6).pdf)
 
 
-[View] ("https:/workspace/milestone-project2/New Project (5).pdf//github.com/") 
-[
- <img src="New Project (5).pdf width"="#"></img>
+
+
+ 
 
 
 
  ## Features
 
--   Responsive on all device sizes
+   Responsive on all device sizes
 <h2>Technologies Used</h2>
-   
 
-
-Languages Used
+   Languages Used
  HTML5
  CSS3
 
@@ -98,7 +96,7 @@ Languages Used
 
 
 
-   <img src="Tom's Gym.PNG" width="#"></img>
+
 
 
 
