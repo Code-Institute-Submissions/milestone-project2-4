@@ -18,8 +18,8 @@ clients
  ## User stories ##
  I wanted the website to engage with people so i decided to put images of the gym so people can see what the gym looks like.
  there is information about our facilites and all of the classes we provide there is also a section dedicated to health benefits
- of going to the gym be it physical and mental health. exercise can help you it's also a great way to relive stress.there is a   
- dedicated contact us section which people can get in touch and leave comments about there experience of Tom's Gym.
+ of going to the gym be it physical and mental health. exercise can help you it's also a great way to relive stress.
+ there is a dedicated contact us section which people can get in touch and leave comments about there experience of Tom's Gym.
  the website is a great idea to give people motivation.
  
 
@@ -117,16 +117,19 @@ Google fonts were used to import the 'EXO, sans-serif'  font into the style.css 
 
  [Font Awesome:](https://fontawesome.com/)
  
-   - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+ Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
 #About GitHub Pages##
 
-GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
-
-You can host your site on GitHub's github.io domain or your own custom domain. For more information, see "Using a custom domain with GitHub Pages."
-
-If your project site is published from a private or internal repository owned by an organization using GitHub Enterprise Cloud, you can manage access control for the site. For more information, see "Changing the visibility of your GitHub Pages site."
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
+You can host your site on GitHub's github.io domain or your own custom domain.
+For more information, see "Using a custom domain with GitHub Pages."
+If your project site is published from a private or internal repository owned by an organization using GitHub Enterprise Cloud, you can manage access control for the site.
+ For more information, see "Changing the visibility of your GitHub Pages site."
  [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.   
+    
+GitHub is used to store the projects code after being pushed from Git.   
    
 The project was deployed to GitHub Pages using the following steps...
 
@@ -137,7 +140,7 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh
 6. scroll down through the page to locate the now published site link in the "GitHub pages" section
 
- <h2>Making a  Local Clone</h2>
+ <h2>Making a Local Clone</h2>
 
  1.Log in to GitHub and locate the GitHub Repository
  2.under the repository name click "Clone or download"
@@ -174,8 +177,7 @@ Testing User Stories from User Experience (UX) Section
 
   1. As a First Time Visitor i want people to understand the websites goal
 
-  2. When people enter the site they can navigate easy with the navigation bootstrap
-     which will bring them to the desired page
+  2. When people enter the site they can navigate easy bacuse of the top navbar 
 
   3. the main points of the website are the images and text   
  
@@ -189,12 +191,8 @@ The website was viewed on a variety of devices such as Desktop, Laptop,Tablet
 
 Some white space between opening hours and google maps andmembership options
 and contact us
-
-
-    
-
-
-                    
+ 
+                   
                     Some images of the webiste below 
 
  <img src="contactform.PNG" width="#"></img>
@@ -203,17 +201,10 @@ Google Maps
  
  I provided a google maps to find the location of the gym easily  from any where just follow the directions 
 
-<img src="maps.PNG" width="#"></img>
-
-
- 
+<img src="maps.PNG" width="#"></img> 
 
 
 <img src="benefits.PNG" width="#"></img>
-
-
-
-
 
 Images of the gym
 
@@ -223,31 +214,20 @@ Images of the gym
 <img src="assets/images/LAFitness .jpg" width="15%"></img>
 
 
-
-
-
-
-
 features:
 
 Responsive website on devices 
 Google maps to help find the location of the gym
 
-
-
-
-
-
-
-
-    
+   
 Credits:
 
 Content 
 
 The text for section for about us was copied from https://www.rawgyms.com/classes/
  
- Some text for ideas to create the   readme .md  was obtainted from the following website
+ Some text for ideas to create the  readme .md  was obtainted from the following website
+ 
 
  https://github.com/Code-Institute-Solutions/SampleREADME
 
@@ -262,7 +242,7 @@ Google fonts
 bing for the image
 raw gyms for paragraph text
 ami.responsivedesgin.is/#
-Code Institute
+Code Institute for text idea from README.md
 
  
 
@@ -316,7 +296,7 @@ errors were shown below in images
                         
 >
 
-reference below is from the following website [https://www.sitepoint.com/community/t/css-validation-unknown-vendor-extensions/125616]
+Reference below is from the following website [https://www.sitepoint.com/community/t/css-validation-unknown-vendor-extensions/125616]
 
                         ** Validation unknown vendor extensions **
 
