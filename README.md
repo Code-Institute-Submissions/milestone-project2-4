@@ -1,7 +1,11 @@
                           
 
-<h1 align="center">Toms' Gym</h1>
+   
+ 
 
+ <body style="background-color:#1c87c9;">
+    <h1 align="center">Toms' Gym</h1>
+  </body>
 
 [View the live project here.](https://tomfinnegan.github.io/milestone-project2/)
 
