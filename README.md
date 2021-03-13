@@ -1,67 +1,65 @@
                           
-
-   
  
+<h1 align="center">Toms' Gym</h1>
 
- <body style="background-color:#1c87c9;">
-    <h1 align="center">Toms' Gym</h1>
-  </body>
 
 [View the live project here.](https://tomfinnegan.github.io/milestone-project2/)
 
-This website is one of many marketing tools for tom's gym. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential 
+This website is one of many marketing tools for tom's gym. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential 
 clients                               
 
 
   <img src="responsive.PNG" width="#"></img>
                                                     
-## User Experience (UX)
-   I want the website to be as easliy as possible for people to use 
+# User Experience (UX)
+ I want the website to be as easliy as possible for people to use 
 
 
- ### User stories
- I have a dedicated contact us section which people can get in touch with us as potential clients
- and they can leave comments about there experience
+ ## User stories ##
+ I wanted the website to engage with people so i decided to put images of the gym so people can see what the gym looks like.
+ there is information about our facilites and all of the classes we provide there is also a section dedicated to health benefits
+ of going to the gym be it physical and mental health. exercise can help you it's also a great way to relive stress.there is a   
+ dedicated contact us section which people can get in touch and leave comments about there experience of Tom's Gym.
+ the website is a great idea to give people motivation.
+ 
 
-  #### First Time Visitor Goals
-  1. For first time visitors i want people to engage with the gym and see the benefits
-     of regular exercise.   
-  2. For the first time visitor i want people to see feeback and comments about the gym
-     and there experience.	
-  3. For first time vistiors i want the website to be easy to navigate. 
-    
+## First Time Visitor Goals
+   1. For the first time visitor i want people to see feeback and comments from our members    
+   about there experience of the staff and personal trainers.	
+   2. For first time vistiors i want the website to be easy to navigate.
+   3. Target people who are new to the area of exercise promote healthy lifestyle  
 
-#### Returning Visitor Goals
-    1. As a Returning Visitor i want people to find more information about the gym  prices etc
-    2. As a Returning Visitor i want people to find more information on classes and promotions
-    3. AS a Returning Visitor i want people to check for new video workouts and  our facilities
+## Returning Visitor Goals 
+    1. As a Returning Visitor i want people to find more information about the gym, prices etc
+    2. As a Returning Visitor i want people to find more about promotions and special challenges 
+    3. As a Returning Visitor i want people to tell frends and family
 
- #### Frequent User Goals
-    1.  As a Frequent User i want people to spread the word about Tom's Gym
-    2.  As a Frequent User i want people to check the website for promotions
-        and challenges to get in shape.
-    3.  As a Frequent user i want people to tell others about us also to check our dedicated area
-        of the benefits of exercise    
 
-        ### Design
-    -   #### Colour Scheme
-            There are a wide variety of colors  some are green, light grey, black, light blue, grey
-   
-       #### Typography
+ ## Frequent User Goals 
+    1.  As a Frequent User i want people to check for seasonal challenges to get fit in time for summer or christmas
+    2.  As a Frequent User i want people to check the website for giveways win holidays and other stuff   
+    3.  As a Frequent user i want people to rate there experience 
 
-            The main font is "EXO",sans-serif.  
-Exo is a geometric sans serif font family. Its design started almost two years ago as way to discover typography in a more advanced way.
-Exo is a very complete font family, it has 9 weights both in regular and true italic versions. Each font comes with a lot of opentype features such as small caps, ligatures, alternates, oldstyle figures, tabular figures, fractions, and more.
+      
+Design
+
+### colour Scheme
+     There are a wide variety of colors  some are green, light grey, black, light blue, grey
+            
+### Typography
+    The main font is "EXO",sans-serif.  
+    Exo is a geometric sans serif font family. Its design started almost two years ago as way to discover typography in a more advanced way.
+    Exo is a very complete font family, it has 9 weights both in regular and true italic versions. Each font comes with a lot of opentype features such as small caps, ligatures, alternates, oldstyle figures, tabular figures, fractions, and more.
 
 Reference For the Information about the font family used in this website  is provided by the following  view link here [https://www.1001fonts.com/exo-font.html]
 
-   #### Imagery
-   Images are visually important to website's the main image is desgind to be appealing and catch the user's
-   attention it's also to give people a feel for the gym
+#### Imagery
+    Images are visually important to website's the main image is desgind to be appealing and catch the user's
+    attention it's also to give people a feel for the gym
                      <h2 align="center">Toms' Gym</h2>
    <img src="df108841e32b5c03f5fb83c7e9edded8.jpg" width="#"></img>
 
-   ### Wireframes
+### Wireframes
 Desktop
     [View the Wireframe here.](https://github.com/tomfinnegan/milestone-project2/blob/master/New%20Project%20(11).pdf)
 
@@ -119,9 +117,39 @@ Google fonts were used to import the 'EXO, sans-serif'  font into the style.css 
  [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
+
+About GitHub Pages
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
+
+You can host your site on GitHub's github.io domain or your own custom domain. For more information, see "Using a custom domain with GitHub Pages."
+
+If your project site is published from a private or internal repository owned by an organization using GitHub Enterprise Cloud, you can manage access control for the site. For more information, see "Changing the visibility of your GitHub Pages site."
  [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.   
    
+The project was deployed to GitHub Pages using the following steps...
+
+1.Log in to GitHub and locate the GitHub Repository
+2.At the top of the Repository locate the settings on the menu
+3.Move down page till you locate the "GitHub pages" section
+4.Under the "Source" click the dropdown called "None" and select "Master Branch"
+5. The page will automatically refresh
+6. scroll down through the page to locate the now published site link in the "GitHub pages" section
+
+ <h2>Making a  Local Clone</h2>
+
+ 1.Log in to GitHub and locate the GitHub Repository
+ 2.under the repository name click "Clone or download"
+ 3.To clone the Repository  using HTTPS, under "Clone with HTTPS" copy the link
+ 4.Open git Bash
+ 5. Change the current working directory to the location where you want the cloned directory to be made
+ 6.Type git clone and paste the url of your website 
+
+ the command should look like the following git clone https://github.com/https://tomfinnegan.github.io/milestone-project2/
+
+7. the running command should look like the following
+
+<img src="git clone.PNG" width="#"></img
 
 
 
@@ -284,8 +312,8 @@ errors were shown below in images
 
 <img src="csserrorfree.PNG" width="#"></img>
 
-                            ** Git clone images **
-<img src="git clone.PNG" width="#"></img>
+                        
+>
 
 reference below is from the following website [https://www.sitepoint.com/community/t/css-validation-unknown-vendor-extensions/125616]
 
