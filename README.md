@@ -56,7 +56,8 @@ Reference For the Information about the font family used in this website  is pro
 #### Imagery
     Images are visually important to website's the main image is desgind to be appealing and catch the user's
     attention it's also to give people a feel for the gym
-                     <h2 align="center">Toms' Gym</h2>
+               
+                   
    <img src="df108841e32b5c03f5fb83c7e9edded8.jpg" width="#"></img>
 
 ### Wireframes
@@ -78,7 +79,7 @@ Tablet
 
    Responsive on all device sizes
 
-<h2>Technologies Used</h2>
+## Technologies Used ##
 
  Languages Used
 
@@ -115,10 +116,10 @@ Hover.css was used on the Social Media icons in the footer
 Google fonts were used to import the 'EXO, sans-serif'  font into the style.css file which is used on all pages throughout the project.
 
  [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+ 
+   - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+#About GitHub Pages##
 
-
-About GitHub Pages
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
 
 You can host your site on GitHub's github.io domain or your own custom domain. For more information, see "Using a custom domain with GitHub Pages."
