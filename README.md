@@ -20,14 +20,15 @@ clients
  there is information about our facilites and all of the classes we provide there is also a section dedicated to health benefits
  of going to the gym be it physical and mental health. exercise can help you it's also a great way to relive stress.
  there is a dedicated contact us section which people can get in touch and leave comments about there experience of Tom's Gym.
- the website is a great idea to give people motivation.
+ the website is a great idea to give people motivation.to get fit
  
 
 ## First Time Visitor Goals
    1. For the first time visitor i want people to see feeback and comments from our members    
    about there experience of the staff and personal trainers.	
    2. For first time vistiors i want the website to be easy to navigate.
-   3. Target people who are new to the area of exercise promote healthy lifestyle  
+   3. Target people who are new to the area of exercise and afraid of going to the gym
+      i want people to have a nice and calming experience of a gym environment
 
 ## Returning Visitor Goals 
     1. As a Returning Visitor i want people to find more information about the gym, prices etc
@@ -54,7 +55,7 @@ Design
 Reference For the Information about the font family used in this website  is provided by the following  view link here [https://www.1001fonts.com/exo-font.html]
 
 #### Imagery
-    Images are visually important to website's the main image is desgind to be appealing and catch the user's
+    Images are visually important to website's the main image is desgined to be appealing and catch the user's
     attention it's also to give people a feel for the gym
                
                    
@@ -119,7 +120,7 @@ Google fonts were used to import the 'EXO, sans-serif'  font into the style.css 
  
  Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-#About GitHub Pages##
+ ##  About GitHub Pages
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
@@ -127,40 +128,51 @@ You can host your site on GitHub's github.io domain or your own custom domain.
 For more information, see "Using a custom domain with GitHub Pages."
 If your project site is published from a private or internal repository owned by an organization using GitHub Enterprise Cloud, you can manage access control for the site.
  For more information, see "Changing the visibility of your GitHub Pages site."
- [GitHub:](https://github.com/)
+        [GitHub:](https://docs.github.com/en/github/working-with-github-pages/about-github-pages#:~:text=%20In%20this%20article%20%201%20About%20GitHub,branch%20and...%204%20Further%20reading.%20%20More%20)
     
 GitHub is used to store the projects code after being pushed from Git.   
    
 The project was deployed to GitHub Pages using the following steps...
 
 1.Log in to GitHub and locate the GitHub Repository
-2.At the top of the Repository locate the settings on the menu
+
+
+2 .At the top of the Repository locate the settings on the menu
+
 3.Move down page till you locate the "GitHub pages" section
+
 4.Under the "Source" click the dropdown called "None" and select "Master Branch"
-5. The page will automatically refresh
-6. scroll down through the page to locate the now published site link in the "GitHub pages" section
+
+5.The page will automatically refresh
+
+6.scroll down through the page to locate the now published site link in the "GitHub pages" section
 
  <h2>Making a Local Clone</h2>
 
  1.Log in to GitHub and locate the GitHub Repository
- 2.under the repository name click "Clone or download"
- 3.To clone the Repository  using HTTPS, under "Clone with HTTPS" copy the link
+
+  2.under the repository name click "Clone or download"
+
+ 3.Too clone the Repository using HTTPS under   "Clone with HTTPS" copy the link
+
  4.Open git Bash
- 5. Change the current working directory to the location where you want the cloned directory to be made
+
+ 5.Change the current working directory to the location where you want the cloned directory to be made
+
  6.Type git clone and paste the url of your website 
 
  the command should look like the following git clone https://github.com/https://tomfinnegan.github.io/milestone-project2/
 
 7. the running command should look like the following
 
-<img src="git clone.PNG" width="#"></img
+<img src="git clone.PNG" width="#"></img>
 
 
 
 [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-    ## Testing
+  ##Testing 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -241,8 +253,10 @@ Acknowledgements:
 Google fonts
 bing for the image
 raw gyms for paragraph text
+
 ami.responsivedesgin.is/#
-Code Institute for text idea from README.md
+
+ode Institute for text for the   README .md
 
  
 
