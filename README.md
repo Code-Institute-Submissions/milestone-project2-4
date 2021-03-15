@@ -5,63 +5,64 @@
 
 [View the live project here.](https://tomfinnegan.github.io/milestone-project2/)
 
-This website is one of many marketing tools for tom's gym. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential 
+This website is one of many marketing tools for Tom's Gym. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential 
 clients                               
 
 
   <img src="responsive.PNG" width="#"></img>
                                                     
 # User Experience (UX)
- I want the website to be as easliy as possible for people to use 
+ I want the website to be as easliy as possible for people to use and find all of the information they require.
 
 
  ## User stories ##
  I wanted the website to engage with people so i decided to put images of the gym so people can see what the gym looks like.
  there is information about our facilites and all of the classes we provide there is also a section dedicated to health benefits
- of going to the gym be it physical and mental health. exercise can help you it's also a great way to relive stress.
+ of going to the gym be it physical and mental health exercise can help you it's also a great way to relive stress.
  there is a dedicated contact us section which people can get in touch and leave comments about there experience of Tom's Gym.
- the website is a great idea to give people motivation.to get fit
- 
+ the website is a great idea to give people motivation to get fit.
 
-## First Time Visitor Goals
+## First Time Visitor Goals:
    1. For the first time visitor i want people to see feeback and comments from our members    
    about there experience of the staff and personal trainers.	
    2. For first time vistiors i want the website to be easy to navigate.
    3. Target people who are new to the area of exercise and afraid of going to the gym
-      i want people to have a nice and calming experience of a gym environment
+      i want people to have a nice and calming experience of a gym environment.
 
-## Returning Visitor Goals 
-    1. As a Returning Visitor i want people to find more information about the gym, prices etc
-    2. As a Returning Visitor i want people to find more about promotions and special challenges 
-    3. As a Returning Visitor i want people to tell frends and family
+## Returning Visitor Goals: 
+    1. As a Returning Visitor i want people to find more information about the gym, prices etc.
+    2. As a Returning Visitor i want people to find more about promotions and special challenges. 
+    3. As a Returning Visitor i want people to tell frends and family.
 
 
- ## Frequent User Goals 
-    1.  As a Frequent User i want people to check for seasonal challenges to get fit in time for summer or christmas
-    2.  As a Frequent User i want people to check the website for giveways win holidays and other stuff   
-    3.  As a Frequent user i want people to rate there experience 
+ ## Frequent User Goals:
+    1.  As a Frequent User i want people to check for seasonal challenges to get fit in time for summer or christmas.
+    2.  As a Frequent User i want people to check the website for giveways win holidays and other stuff.   
+    3.  As a Frequent user i want people to rate there experience. 
 
       
 Design
 
-### colour Scheme
-     There are a wide variety of colors  some are green, light grey, black, light blue, grey
+### colour Scheme:
+     The top heading color is light grey and the different section colours are light blue.
+     There are a wide variety of colors  some are green, light grey, black, light blue, grey.
             
-### Typography
-    The main font is "EXO",sans-serif.  
+### Typography:
+    The main font is "EXO",sans-serif as a fall back in case "EXO" doesn't work.
     Exo is a geometric sans serif font family. Its design started almost two years ago as way to discover typography in a more advanced way.
     Exo is a very complete font family, it has 9 weights both in regular and true italic versions. Each font comes with a lot of opentype features such as small caps, ligatures, alternates, oldstyle figures, tabular figures, fractions, and more.
 
 Reference For the Information about the font family used in this website  is provided by the following  view link here [https://www.1001fonts.com/exo-font.html]
 
-#### Imagery
+#### Imagery:
     Images are visually important to website's the main image is desgined to be appealing and catch the user's
     attention it's also to give people a feel for the gym
                
                    
    <img src="df108841e32b5c03f5fb83c7e9edded8.jpg" width="#"></img>
 
-### Wireframes
+### Wireframes:
+    
 Desktop
     [View the Wireframe here.](https://github.com/tomfinnegan/milestone-project2/blob/master/New%20Project%20(11).pdf)
 
@@ -76,13 +77,13 @@ Tablet
 
 
 
- ## Features
+ ## Features:
 
    Responsive on all device sizes
 
 ## Technologies Used ##
 
- Languages Used
+ Languages Used:
 
  
  [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -120,7 +121,7 @@ Google fonts were used to import the 'EXO, sans-serif'  font into the style.css 
  
  Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
- ##  About GitHub Pages
+ ##  About GitHub Pages:
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
@@ -172,7 +173,7 @@ The project was deployed to GitHub Pages using the following steps...
 [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-  ##Testing 
+  ## Testing 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -185,40 +186,43 @@ Testing User Stories from User Experience (UX) Section
 
 ### Testing User Stories from User Experience (UX) Section
 
--   #### First Time Visitor Goals
+-   ### First Time Visitor Goals
 
   1. As a First Time Visitor i want people to understand the websites goal
 
-  2. When people enter the site they can navigate easy bacuse of the top navbar 
+
+  2. When people enter the site they can navigate easy because of the top navbar it has a dark grey color so people attention 
+    are drawn to the navigation area
 
   3. the main points of the website are the images and text   
  
-
-### Further Testing
+  4.To promote Tom's Gym and get more clients 
+  5.To help people achive there fitness goals
+## Further Testing
 
 The Website was tested on  Internet Explorer
 The website was viewed on a variety of devices such as Desktop, Laptop,Tablet
+ It is responsive on all devices
+## Known Bugs
 
-### Known Bugs
-
-Some white space between opening hours and google maps andmembership options
-and contact us
+Some white space between opening hours and google maps and membership options
+and contact us  
  
                    
                     Some images of the webiste below 
 
  <img src="contactform.PNG" width="#"></img>
 
-Google Maps
+## Google Maps
  
  I provided a google maps to find the location of the gym easily  from any where just follow the directions 
 
 <img src="maps.PNG" width="#"></img> 
 
-
+## Bennefits of Gym
 <img src="benefits.PNG" width="#"></img>
 
-Images of the gym
+ ## Images of the gym
 
 <img src="assets/images/1008451154-Gyms_01_usethisversion-1226x0-c-default.jpg" width="15%"></img>
 <img src="assets/images/CS_fitness-center-scaled.jpg" width="15%"></img>
@@ -226,7 +230,7 @@ Images of the gym
 <img src="assets/images/LAFitness .jpg" width="15%"></img>
 
 
-features:
+## features:
 
 Responsive website on devices 
 Google maps to help find the location of the gym
@@ -256,13 +260,12 @@ raw gyms for paragraph text
 
 ami.responsivedesgin.is/#
 
-ode Institute for text for the   README .md
+Code Institute for text for the   README .md
 
  
 
-Testing on w3cvalidator:
-all pages passed
-errors were shown below in images 
+## Testing on w3cvalidator:
+All pages with errors and pages passed were shown below in images 
 
                          ** Index page passed **
 
@@ -271,7 +274,7 @@ errors were shown below in images
 
 
 
-                       **Facilities page with error ** 
+                      **Facilities page with error**
 
 <img src="facilliteserror.PNG" width="#"></img>
 
@@ -289,26 +292,26 @@ errors were shown below in images
 
 
 
-                         ** Benefits page no error **  
+                        ** Benefits page no error **  
 
 <img src="benefitss.PNG" width="#"></img>
 
 
 
-                          ** Contact us  page no error **
+                        ** Contact us page no error **
 <img src="contactus.PNG" width="#"></img>
   
                           ** CSS  With Error's **
 
 <img src="csserrosnew.PNG" width="#"></img>
 
-                             ** CSS Without Error's **
+                           ** CSS Without Error's **
 
 
 <img src="csserrorfree.PNG" width="#"></img>
 
                         
->
+
 
 Reference below is from the following website [https://www.sitepoint.com/community/t/css-validation-unknown-vendor-extensions/125616]
 
