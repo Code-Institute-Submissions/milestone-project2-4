@@ -72,7 +72,8 @@ Mobile
 Tablet
 [View the Wireframe here.](https://github.com/tomfinnegan/milestone-project2/blob/master/New%20Project%20(7).pdf)
 
-
+[Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
  
 
 
@@ -170,8 +171,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 
 
-[Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+
 
   ## Testing 
 
